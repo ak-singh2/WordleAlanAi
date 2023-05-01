@@ -1,7 +1,7 @@
 ![Wordle+](https://raw.githubusercontent.com/MikhaD/wordle/main/public/img/og_1200x630.png)
 <div align="center">
   <a href="https://ak-singh2.github.io/WordleAlanAi/" ><img src="" alt="Publish workflow"/></a>
-  <img src="https://img.shields.io/github/package-json/v/MikhaD/wordle" alt="GitHub package.json version" />
+  <img src="https://img.shields.io/github/package-json/v/ak-singh2/WordleAlanAi" alt="GitHub package.json version" />
 </div>
 
 ---
