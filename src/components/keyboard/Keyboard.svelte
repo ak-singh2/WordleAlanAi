@@ -9,6 +9,8 @@
 	let preventChange = true;
 
 	const dispatch = createEventDispatcher();
+	alanBtninstance.playCommand({command:"appendValue", screen:"Keyboard"});
+	
 
 	function appendValue(char: string) {
 		if (!disabled && value.length < COLS) {
